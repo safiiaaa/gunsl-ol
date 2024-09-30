@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+guns.lol	TRUE	/	FALSE	1999999999	gunslol_clearance	5a03be120f75526a47e848d9f1ddca0c71c5349aab61f5c33cb05b103fd8fb15.1727707550.hGzkJ7uBmy_1-0-8e8ba9e3a8449b0dfab3c82bd2597bb8cba6b161e9fbc6040d639a3b853e6a4d
+guns.lol	TRUE	/	FALSE	1999999999	SameSite	Lax
+
